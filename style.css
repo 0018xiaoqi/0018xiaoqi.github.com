@@ -1,0 +1,66 @@
+*{
+  margion:0;
+}
+.clear{
+	clear:both;
+	
+}
+body{
+	color:#5e2;
+	background:#431;
+	border:ridge;
+/*	background:url(../zuopin,image/1.svg) #d15;
+	background-repeat: no-repeat;
+	background-attachment:fixed;*/
+}
+/*#shenti{
+	float:left;
+	width:400px;
+	margin:auto;
+	height:150px;
+}*/
+div{
+	background:url(../zuopin,image/1.svg);
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	float:left;
+	display:block;
+}
+ul, li{
+ 	height:50px;
+	float:left;
+	display:block;
+	margin:5px;
+	color:blue;
+}
+#l1{
+	width:60px;
+	position:fixed;
+	top:3px;
+	}
+#l2{
+	width:60px;
+	position:fixed;
+	top:3px;
+	left:120px;
+	
+	}
+#l3{
+	width:60px;
+	position:fixed;
+	top:3px;
+	left:180px;
+	}
+#l4{
+	width:60px;
+	position:fixed;
+	top:3px;
+	left:240px;
+	}
+#l5{
+	width:60px;
+	position:fixed;
+	top:3px;
+	left:300px;
+	}
+
